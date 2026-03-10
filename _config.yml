@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://Clemenson-work.github.io'
+url: https://Clemenson-work.github.io
 
 github:
   username: Clemenson-work # change to your GitHub username
@@ -32,7 +32,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Clément Poirson
-  email: clement.poirson[at]alice-bob.com # change to your email address
+  email: clement.poirson@alice-bob.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
